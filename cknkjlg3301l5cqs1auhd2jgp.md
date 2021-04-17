@@ -153,7 +153,14 @@ Click on the buttons to change the themes.
 
 [![Repo](https://img.shields.io/badge/Github-View%20Repo-lightgrey?style=for-the-badge&logo=github)](https://github.com/adisreyaj/ng-theming)
 
+## 🌎 Connect with me
 
-Feel free to ping me on Twitter If you would like to connect. Stay Safe ❤️
+- [Twitter](https://twitter.com/AdiSreyaj)
+- [Github](https://github.com/adisreyaj)
+- [Linkedin](https://www.linkedin.com/in/adithyasreyaj/)
+- [Cartella](https://cartella.sreyaj.dev) - building at the moment
+
+[![Buy me a pizza](https://cdn.hashnode.com/res/hashnode/image/upload/v1618661389599/2B667-okT.png)](https://www.buymeacoffee.com/adisreyaj)
 
 Do add your thoughts in the comments section.
+Stay Safe ❤️
