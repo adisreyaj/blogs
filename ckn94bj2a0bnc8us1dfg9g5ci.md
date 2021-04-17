@@ -108,10 +108,11 @@ Ref: https://tailwindcss.com/docs/just-in-time-mode
 - [Linkedin](https://www.linkedin.com/in/adithyasreyaj/)
 - [Cartella](https://cartella.sreyaj.dev) - building at the moment
 
-%%[buymeacoffeebutton]
+[![Buy me a pizza](https://cdn.hashnode.com/res/hashnode/image/upload/v1618661389599/2B667-okT.png)](https://www.buymeacoffee.com/adisreyaj)
 
 Do add your thoughts in the comments section.
 Stay Safe ❤️
+
 
 
 
