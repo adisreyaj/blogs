@@ -108,6 +108,8 @@ Ref: https://tailwindcss.com/docs/just-in-time-mode
 - [Linkedin](https://www.linkedin.com/in/adithyasreyaj/)
 - [Cartella](https://cartella.sreyaj.dev) - building at the moment
 
+%%[buymeacoffeebutton]
+
 Do add your thoughts in the comments section.
 Stay Safe ❤️
 
