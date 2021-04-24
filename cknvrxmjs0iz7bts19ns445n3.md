@@ -1,6 +1,6 @@
 ## Fullscreen toggle functionality in Angular using Directives.
 
-We are gonna see some really cool ways to leverage directives to create a super simple fullscreen toggle functionality.
+We are gonna see how to leverage directives to create a super simple fullscreen toggle functionality.
 
 Let's see the definition for a directive in Angular:
 
