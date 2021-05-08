@@ -9,6 +9,8 @@ If we are not very careful in architecting tables for our applications, there ca
 
 One such great component for Angular is the Table component from Angular Material. It's a very solid table component that can be used without any hassle and is well documented.
 
+![Table with sorting](https://cdn.hashnode.com/res/hashnode/image/upload/v1620457370683/wKZhm7Svc.png)
+
 ## Features commonly seen
 The most common features that can be seen in any table component are:
 1. Sorting
