@@ -1,4 +1,4 @@
-## Beautifully encapsulate table related logic into a custom data source + sorting using directives
+## Beautifully encapsulate table related logic using a custom data source + sorting using directives
 
 Tables are a fundamental part of the web. It is used in most of the applications out there to present data in a readable and digestible way. Tables can come out as very simple components, but they can be a real pain to work with if things are not organized properly. 
 
