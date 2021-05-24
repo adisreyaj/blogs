@@ -17,7 +17,7 @@ Read more about it here: https://plausible.io |  [Demo](https://plausible.io/pla
 
 Plausible is open-source. According to their website, there is only one version of it and both the managed version and the self-hosted version are completely equal. 
 
-![Self hosted Plausible](https://cdn.hashnode.com/res/hashnode/image/upload/v1621873595571/JVRw5yeK1.jpeg)
+![Self hosted Plausible](https://cdn.hashnode.com/res/hashnode/image/upload/v1621875592193/YzD1B8mmR.jpeg)
 
 If you go with their managed plan, you'll have to pay a premium that starts at around **$6/mo** for **10k** Monthly page views. You don't have to worry about anything like managing the server, the DB, and stuff.
 
