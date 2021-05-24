@@ -90,7 +90,7 @@ openssl rand -base64 64
 ```
 ADMIN_USER_EMAIL=adi@sreyaj.dev
 ADMIN_USER_NAME=adithya
-ADMIN_USER_PWD=St0ngP@assword
+ADMIN_USER_PWD=Str0ngP@assword
 BASE_URL=https://plausible.sreyaj.dev
 SECRET_KEY_BASE=szKAM+7Vm ... ==
 ```
