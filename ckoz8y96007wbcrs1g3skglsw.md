@@ -38,7 +38,7 @@ So what we ideally want the directive to do, is to add a new element with the ba
 
 We need to create an element dynamically and attach it to the host element. Angular has just a thing for doing this sort of stuff. It's the `Renderer2`.
 
-[Renderer2](https://angular.io/api/core/Renderer2#renderer2)  is a class that provides us an elegant way to manipulate elements without having to touch the DOM directly. It's not advised to make direct changes to the DOM, instead, rely on this abstraction to manipulate elements. Why? This is especially helpful if your application used server-side rendering where you don't have access to DOM.
+[Renderer2](https://angular.io/api/core/Renderer2#renderer2)  is a class that provides us an elegant way to manipulate elements without having to touch the DOM directly.
 
 So when we find that our `badge` directive is attached to some element, we create a `span` element and then append it to the host element. Simple, isn't it?
 
