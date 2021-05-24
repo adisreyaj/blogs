@@ -45,7 +45,7 @@ If not, just click on **Add Ingress Rules** and enter the following details:
   - SOURCE TYPE: `CIDR`
   - SOURCE CIDR: `0.0.0.0/0`
   - IP PROTOCOL: `TCP`
-  - SOURCE PORT RANGE: <blank>
+  - SOURCE PORT RANGE: `<leave blank>`
   - DESTINATION PORT RANGE: `80,443`
   - DESCRIPTION: `HTTP and HTTPS ports`
 
@@ -94,7 +94,7 @@ ADMIN_USER_PWD=St0ngP@assword
 BASE_URL=https://plausible.sreyaj.dev
 SECRET_KEY_BASE=szKAM+7Vm ... ==
 ```
-*Note:* If not editor is present, try installing `nano`
+*Note:* Try installing `nano` for editing files.
 
 4. Once we have set up the env variables, we can just use `docker-compose` to spin up the system
 ```sh
