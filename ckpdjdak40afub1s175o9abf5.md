@@ -2,7 +2,7 @@
 
 How to highlight text in a paragraph with the help of directives in Angular. Especially helpful in highlighting text matching the search term. You could have come across this in your browser or IDE when you search for something, the matching items will be highlighted to point you to the exact place of occurrence.
 
-## Search Highlight
+## Text Highlighting
 
 Here is what we are going to build in this post. A very simple and straightforward highlight directive in Angular. We see something similar in chrome dev tools.
 
@@ -16,12 +16,12 @@ This is what we are building:
 ![Highlight text directive](https://cdn.hashnode.com/res/hashnode/image/upload/v1622313456863/JGswufIHm.png)
 
 So let's plan out our directive.
-The main input to the directive is the term that needs to be highlighted. So yeah, we will use `@Input()` to pass the term to our directive. I think that is pretty much what we would want to be passed in.
+The main input to the directive is the term that needs to be highlighted. So yeah, we will use `@Input()` to pass the term to our directive. I think that is pretty much what we need inside the directive
 
 So now we need to get hold of the actual paragraph to search in. So there is an easy way to get the text from an `HTMLElement`. We can use the `textContent`( [ref](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent) ) which should give us the text to search in.
 
 ## Building the Highlight directive
-As always, I would recommend you create a new module only for the directive. And If you really manage your codebase in a proper way, you can consider creating it as a library within the project as well.
+As always, I would recommend you create a new module only for the directive. And If you really properly manage your codebase, you can consider creating it as a library within the project as well.
 
 To keep things simple, we put our code in a `lib` folder:
 ```md
@@ -100,7 +100,7 @@ export class HighlightDirective implements OnChanges {
 
 Let's do a code breakdown.
 
-The first thing that we need is the Inputs in our directive. We only actually need the search term, but I have added some extra functionalities to our directive. We have an option to provided `customClasses` for the highlighted text, and another flag 'caseSensitive` which will decide whether we have to match the case or not.
+The first thing that we need is the Inputs in our directive. We only actually need the search term, but I have added some extra functionalities to our directive. We can provide `customClasses` for the highlighted text, and another flag 'caseSensitive` which will decide whether we have to match the case.
 
 ```ts
 @Input("highlight") searchTerm: string;
