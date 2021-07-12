@@ -70,7 +70,7 @@ So now that we know what each of these functions does, we can start implementing
 
 We are going to take a look at the base form that we are gonna work with. We just have some basic input fields and 2 custom form elements.
 
-```ts
+```json
 {
     name: 'Adithya',
     github: 'https://github.com/AdiSreyaj',
