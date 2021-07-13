@@ -1,4 +1,4 @@
-## Creating custom form controls using ControlValueAccessor in Angular
+## Creating custom form controls using Control Value Accessor in Angular
 
 How to create custom form controls in Angular using ControlValueAccessor? We can create custom form components and connect them to either template-driven forms or reactive forms.
 
