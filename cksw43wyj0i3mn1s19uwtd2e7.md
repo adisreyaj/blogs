@@ -812,6 +812,10 @@ The server uses  [**joi**](https://github.com/sideway/joi)  for validating the r
 
 Error handling is very important in any project and so is logging. With proper logs in place, it's much easier to sport the bugs. The errors are streamed by pm2 and are visible via the PM2 Dashboard.
 
+![Sentry error management](https://cdn.hashnode.com/res/hashnode/image/upload/v1630255964921/sqmT9Yq4j.png)
+Errors are also sent to Sentry for easy RCA. Sentry has a good integration and setting up was not that difficult. Will try to write about it in a separate blog.
+ 
+
 #### Security
 When it comes to API Security, there is CORS, Rate limiting, etc implemented. Thanks to middleware like
 -  [Helmet](https://helmetjs.github.io/)  
