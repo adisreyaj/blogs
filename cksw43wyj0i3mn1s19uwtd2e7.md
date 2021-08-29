@@ -4,6 +4,8 @@ Compito is a simple and easy-to-use project management application built using A
 
 It's my submission towards the  [Auth0 x Hashnode hackthon](https://townhall.hashnode.com/auth0-hackathon). It was a great experience building something within such a short span of 3 weeks. After more than 300 commits, I feel the app is having all the basic functionality that I planned.
 
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/TAnBjB0fKuE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Thought
 There are a lot of ways to manage tasks on the internet from simple to really complex project management applications. I always wanted a simple and aesthetic application that should be dead simple without a lot of features. Only the essentials.
 And also there should be a simple way to separate projects and share them with different users without a hassle.
