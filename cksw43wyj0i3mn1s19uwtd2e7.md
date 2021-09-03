@@ -814,9 +814,12 @@ Error handling is very important in any project and so is logging. With proper l
 
 ![Sentry error management](https://cdn.hashnode.com/res/hashnode/image/upload/v1630255964921/sqmT9Yq4j.png)
 Errors are also sent to Sentry for easy RCA. Sentry has a good integration and setting up was not that difficult. Will try to write about it in a separate blog.
+
+#### Database backups
+Database backups are created locally on a daily basis and uploaded to object storage in the cloud. More details about the setup here:  [How to backup Postgres data to object storage](https://blog.sreyaj.dev/how-to-backup-postgres-data-to-s3-bucket-using-minio).
  
 
-#### Security
+#### Security and Others
 When it comes to API Security, there is CORS, Rate limiting, etc implemented. Thanks to middleware like
 -  [Helmet](https://helmetjs.github.io/)  
 -  [Express Rate Limit](https://www.npmjs.com/package/express-rate-limit) 
