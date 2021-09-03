@@ -2,7 +2,7 @@
 
 Managing a database on your own can be problematic. As someone who is not that into DevOps, setting up a database and managing it is a difficult task. I have currently hosted two of my side projects -  [Cartella](https://cartella.sreyaj.dev)  and  [Compito](https://blog.sreyaj.dev/compito-project-management-app-angular-nestjs-auth0)  in a barebones **Ubuntu** VPS. 
 
-## Self-hosting vs Managed DB 
+## Self-hosted vs Managed DB 
 There can be a lot of problems when you are new to this whole deployment scene. I recently faced an issue with Cartella, where all the data was lost somehow. I hosted a Postgres database in a docker container which was used by the node application running in another docker container. 
 
 One day, I realized I was not able to log in to Cartella, I checked the PM2 dashboard to see if the server is running fine or not. The API which is a node application was running fine. So next I checked the DB, and to my surprise, there was no data.
