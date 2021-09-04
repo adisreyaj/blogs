@@ -123,6 +123,8 @@ You are all set now! You can sit back and relax now.
 ![Backups in storage](https://cdn.hashnode.com/res/hashnode/image/upload/v1630666111993/HTfD_XZAS.png)
 If you go to the object storage and check the folder, you'll be able to see the backups saved.
 
+Note: This script is just a starter and intended to be used with demo or side projects. In a production setup, you would have to consider a lot more stuff like error handling, backup rotation, and more. Thanks to  [Andreas](https://twitter.com/ascherbaum) for bringing this up.
+
 ## Connect with me
 
 - [Twitter](https://twitter.com/AdiSreyaj)
