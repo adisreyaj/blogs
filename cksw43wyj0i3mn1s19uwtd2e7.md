@@ -843,6 +843,13 @@ As always thanks to Vercel for making the websites super fast.
 -  [Github Repo](https://github.com/adisreyaj/compito) 
 -  [Demo](https://compito.adi.so/) 
 
+## Update
+Thanks all for the massive support. We've crossed **100** stars on Github, More than **120** users signed up in Auth0, and also around **1.5K** pageviews after the launch.
+
+![Github Stats](https://cdn.hashnode.com/res/hashnode/image/upload/v1630996920359/0LcL0loH7.png)
+
+![Analytics](https://cdn.hashnode.com/res/hashnode/image/upload/v1630997083694/JgcovCOAT.png)
+
 ## Connect with me
 
 - [Twitter](https://twitter.com/AdiSreyaj)
