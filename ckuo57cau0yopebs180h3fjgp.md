@@ -2,7 +2,7 @@
 
 Let's see how easy it is to add heatmaps to tables in Angular using Directives. We'll go for a really simple and elegant solution to have separate heatmap colors to different columns in the table.
 
-As I always say, Directives are a really powerful feature. It can be used as an elegant solution to implement a lot of cool functionalities. You can clearly see why the directive approach makes more sense when you reach the end of the post.
+As I always say, Directives are a really powerful feature of Angular. It can be used as an elegant solution to implement a lot of cool functionalities. You can clearly see why the directive approach makes more sense when you reach the end of the post.
 
 ## Heatmaps in table
 
