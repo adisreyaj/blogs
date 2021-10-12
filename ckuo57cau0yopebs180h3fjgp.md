@@ -31,7 +31,7 @@ We can easily implement heatmaps using **RGBA** or **HSLA** by just changing the
 I am not going with this approach as we are also trying to generate accessible text colors based on the background color. This will ensure the text will remain readable for all the color stops.
 
 ### Using HSL Color Expression
-Here I am gonna be using  [HSL](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/hsl() color expression to easily get the right color for each value by manipulating the `L (Lightness)` parameter. 
+Here I am gonna be using HSL color expression to easily get the right color for each value by manipulating the `L (Lightness)` parameter. 
 **HSL** is a really good way to express colors and manipulating the colors is very easy with it.
 
 **HSL** stands for `Hue` `Saturation` `Lightness` and it can also have an `Alpha` channel with **HSLA**
