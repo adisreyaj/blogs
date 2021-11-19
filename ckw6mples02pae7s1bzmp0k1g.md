@@ -117,7 +117,7 @@ We have a separate directive that can be placed on the table to get the offset o
     private el: ElementRef,
     @Optional() private table: StickyTableDirective
   ) {}
-````
+```
 
 We mark the `StickyTableDirective` as `@Optional()` so that we can add the `StickyDirective` directive on other elements and it can automatically be sticky with the default value.
 
