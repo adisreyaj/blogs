@@ -153,6 +153,11 @@ Here is how we use it in HTML.
 ```
 We add the `stickyTable` directive to the table and the `sticky` directive to the column.
 
+## Demo and Code
+<iframe src="https://stackblitz.com/edit/angular-ivy-mcwnrf?embed=1&file=src/app/app.component.html&hideExplorer=1&hideNavigation=1&view=preview" width="100%" height="600px"></iframe>
+
+ [Stackblitz Link](https://stackblitz.com/edit/angular-ivy-mcwnrf?file=src/app/sticky.directive.ts)
+
 ## Improvements
 A lot of improvements can be made to this directive to make it more re-usable like: 
 - Add support for other directions.
