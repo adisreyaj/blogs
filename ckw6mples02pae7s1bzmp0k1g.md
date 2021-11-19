@@ -15,7 +15,7 @@ We make use of the `position: sticky` CSS property to make an element sticky. Re
   left: 0;
 }
 ``` 
-For the sticky position to work properly, at least one of top, right, bottom, or left should be specified.
+For the sticky position to work properly, at least one of `top`, `right`, `bottom`, or `left` should be specified.
 
 ## The problem
 Making the first column in a table sticky is super simple, you basically add the `sticky` class to the column.
@@ -159,6 +159,11 @@ A lot of improvements can be made to this directive to make it more re-usable li
 - Generalize the `StickyTableDirective` to be able to use it on other elements as well.
 
 For the sake of keeping the example here simple, I've kept it simple.
+
+## Similar Reads
+1.  [Implement Heatmaps in a table using directives](https://blog.sreyaj.dev/how-to-implement-heatmap-in-tables-using-directives-in-angular) 
+2.  [Highlight text in paragraphs with a simple directive in Angular](https://blog.sreyaj.dev/highlight-text-in-angular-using-directives)
+3.  [Fullscreen toggle functionality in Angular using Directives.](https://blog.sreyaj.dev/fullscreen-toggle-angular-using-directives)  
 
 ## Connect with me
 
