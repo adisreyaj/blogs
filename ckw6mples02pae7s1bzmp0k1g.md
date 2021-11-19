@@ -1,4 +1,4 @@
-## How I implement sticky columns in tables using directives - Angular!
+## How I implemented sticky columns in tables using directives - Angular!
 
 How to create sticky columns in Angular using directives. Implementing tables with sticky columns can be tricky especially when you have to make multiple columns sticky. Using directives, we can easily implement sticky columns.
 
