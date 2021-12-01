@@ -246,10 +246,43 @@ The `toggle` property is a function that has the current context and the index b
 Also, see that it's an `arrow` function, that is the reason we can call the `toggleState` function with the proper context (`this`).
 
 ```ts
-  getToggleState = (index: number) => {
-    return this.toggleState.bind(this, index);
-  };
+getToggleState = (index: number) => {
+  return this.toggleState.bind(this, index);
+};
 ```
+**Note**: If you are worried about using methods in the template, there are two ways to make this code better:
+
+#### 1. Memoize the `getToggleState` method 
+
+```ts
+import { memoize } from 'lodash-es';
+
+getToggleState = memoize((index: number) => {
+  console.log('Called');
+  return this.toggleState.bind(this, index);
+})
+```
+
+#### 2. Use Custom Pipe
+```ts
+@Pipe({
+  name:'getToggleFunction'
+})
+export class TogglePipe implements PipeTransform{
+  transform(i: number, toggleFn: Function){
+    return () => toggleFn(i);
+  }
+}
+```
+and make necessary change the template:
+```html
+<ng-container 
+  [ngTemplateOutlet]="(item?.customHeader?.templateRef || defaultHeader)"
+  [ngTemplateOutletContext]="{$implicit: item, index: i, toggle: i | getToggleFunction: toggleState}"
+</ng-container>
+```
+### Usage
+
 This is how we use the `ngTemplateOutletContext`: 
 ```html
 <ng-template #defaultHeader let-item let-index="index"></ng-template>
@@ -356,6 +389,7 @@ All the styles that are required for the accordion are in the `accordion.compone
 Demo: https://ssscp.csb.app
 
 Code: https://codesandbox.io/s/ng-accordion-ssscp
+Code with Pipe: https://codesandbox.io/s/ng-accordion-optimized-49bxr
 
 ## Connect with me
 
