@@ -389,6 +389,7 @@ All the styles that are required for the accordion are in the `accordion.compone
 Demo: https://ssscp.csb.app
 
 Code: https://codesandbox.io/s/ng-accordion-ssscp
+
 Code with Pipe: https://codesandbox.io/s/ng-accordion-optimized-49bxr
 
 ## Connect with me
