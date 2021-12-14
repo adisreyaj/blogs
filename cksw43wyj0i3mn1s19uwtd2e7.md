@@ -855,8 +855,10 @@ Thanks all for the massive support. We've crossed **100** stars on Github, More 
 - [Twitter](https://twitter.com/AdiSreyaj)
 - [Github](https://github.com/adisreyaj)
 - [Linkedin](https://www.linkedin.com/in/adithyasreyaj/)
+- [Cardify](https://cardify.adi.so) - Dynamic SVG Images for Github Readmes
 
-[![Buy me a pizza](https://cdn.hashnode.com/res/hashnode/image/upload/v1618661389599/2B667-okT.png)](https://www.buymeacoffee.com/adisreyaj)
 
-Do add your thoughts in the comments section. If y'all need more detailed blogs on each part of the application, just let me know!
+Do add your thoughts in the comments section.
 Stay Safe ❤️
+
+[![Buy me a pizza](https://cdn.hashnode.com/res/hashnode/image/upload/v1639498527478/IA3aJ9R0J.png)](https://www.buymeacoffee.com/adisreyaj)
