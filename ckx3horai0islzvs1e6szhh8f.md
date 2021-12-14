@@ -170,6 +170,7 @@ For the sake of keeping the example here simple, I've kept it simple.
 2.  [Highlight text in paragraphs with a simple directive in Angular](https://blog.sreyaj.dev/highlight-text-in-angular-using-directives)
 3.  [Fullscreen toggle functionality in Angular using Directives.](https://blog.sreyaj.dev/fullscreen-toggle-angular-using-directives)  
 
+
 ## Connect with me
 
 - [Twitter](https://twitter.com/AdiSreyaj)
@@ -177,7 +178,8 @@ For the sake of keeping the example here simple, I've kept it simple.
 - [Linkedin](https://www.linkedin.com/in/adithyasreyaj/)
 - [Cardify](https://cardify.adi.so) - Dynamic SVG Images for Github Readmes
 
-[![Buy me a pizza](https://cdn.hashnode.com/res/hashnode/image/upload/v1633804283582/du5DzSL_M.png)](https://www.buymeacoffee.com/adisreyaj)
 
 Do add your thoughts in the comments section.
 Stay Safe ❤️
+
+[![Buy me a pizza](https://cdn.hashnode.com/res/hashnode/image/upload/v1639498527478/IA3aJ9R0J.png)](https://www.buymeacoffee.com/adisreyaj)
