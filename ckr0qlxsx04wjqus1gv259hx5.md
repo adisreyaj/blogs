@@ -314,9 +314,10 @@ We can also use this approach to break sections of the form into their own indiv
 - [Twitter](https://twitter.com/AdiSreyaj)
 - [Github](https://github.com/adisreyaj)
 - [Linkedin](https://www.linkedin.com/in/adithyasreyaj/)
-- [Cartella](https://cartella.sreyaj.dev) - building at the moment
+- [Cardify](https://cardify.adi.so) - Dynamic SVG Images for Github Readmes
 
-[![Buy me a pizza](https://cdn.hashnode.com/res/hashnode/image/upload/v1618661389599/2B667-okT.png)](https://www.buymeacoffee.com/adisreyaj)
 
 Do add your thoughts in the comments section.
 Stay Safe ❤️
+
+[![Buy me a pizza](https://cdn.hashnode.com/res/hashnode/image/upload/v1639498527478/IA3aJ9R0J.png)](https://www.buymeacoffee.com/adisreyaj)
