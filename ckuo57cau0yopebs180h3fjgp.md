@@ -289,9 +289,10 @@ The whole idea of the blog post is to showcase how a directive can be used for i
 - [Twitter](https://twitter.com/AdiSreyaj)
 - [Github](https://github.com/adisreyaj)
 - [Linkedin](https://www.linkedin.com/in/adithyasreyaj/)
-- [Compito](https://compito.adi.so) - Open source project management app
+- [Cardify](https://cardify.adi.so) - Dynamic SVG Images for Github Readmes
 
-[![Buy me a pizza](https://cdn.hashnode.com/res/hashnode/image/upload/v1633804283582/du5DzSL_M.png)](https://www.buymeacoffee.com/adisreyaj)
 
 Do add your thoughts in the comments section.
 Stay Safe ❤️
+
+[![Buy me a pizza](https://cdn.hashnode.com/res/hashnode/image/upload/v1639498527478/IA3aJ9R0J.png)](https://www.buymeacoffee.com/adisreyaj)
