@@ -310,14 +310,15 @@ Done! We have successfully implemented Feature flags in Angular. You might feel 
 
 These are the 3 main things that we need. Hope you are now aware of how to implement feature flags in Angular. If something is not clear, just try to read through the code line by line and it'll make sense.
 
-## 🌎 Connect with me
+## Connect with me
 
 - [Twitter](https://twitter.com/AdiSreyaj)
 - [Github](https://github.com/adisreyaj)
 - [Linkedin](https://www.linkedin.com/in/adithyasreyaj/)
-- [Cartella](https://cartella.sreyaj.dev) - building at the moment
+- [Cardify](https://cardify.adi.so) - Dynamic SVG Images for Github Readmes
 
-[![Buy me a pizza](https://cdn.hashnode.com/res/hashnode/image/upload/v1618661389599/2B667-okT.png)](https://www.buymeacoffee.com/adisreyaj)
 
 Do add your thoughts in the comments section.
 Stay Safe ❤️
+
+[![Buy me a pizza](https://cdn.hashnode.com/res/hashnode/image/upload/v1639498527478/IA3aJ9R0J.png)](https://www.buymeacoffee.com/adisreyaj)
