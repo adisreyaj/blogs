@@ -151,7 +151,7 @@ export class ProtocolValidatorDirective implements Validator {
 ```
 and we use it like this:
 ```html
-<input type="text" protocol="wss://" /> 
+<input type="text" protocol="wss://" [(ngModel)]="url" /> 
 ```
 
 **Note**: For the directive selector, it's always a good idea to also look for whether there is a valid form connector added to the element:
