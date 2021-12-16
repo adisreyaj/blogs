@@ -23,7 +23,7 @@ Here's how you would use a validator directive:
 ```html
 <input type="email" required minlength [(ngModel)]="email"/>
 ```
-The attributes `required` and `minlength` are selectors for the `RequiredValidator` and `MinLengthValidator` directives respectively. These can be used with both **Template drive forms** and **Reactive Forms**.
+The attributes `required` and `minlength` are selectors for the `RequiredValidator`( [ref](https://github.com/angular/angular/blob/0115e2b66493b06532f5399f3cad79e6149aed7f/packages/forms/src/directives/validators.ts#L347) ) and `MinLengthValidator` ( [ref](https://github.com/angular/angular/blob/0115e2b66493b06532f5399f3cad79e6149aed7f/packages/forms/src/directives/validators.ts#L550) ) directives respectively. These can be used with both **Template drive forms** and **Reactive Forms**.
 
 Here's how the `required `directive looks like:
 
