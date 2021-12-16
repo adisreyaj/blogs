@@ -13,7 +13,7 @@ Angular ships with different validators out of the box, both for use with Templa
 - In-built Validator Directives.
 - A set of validator functions exported via the `Validators` class.
 
-Both the directives and `Validators` class use the same function under the hood.
+Both the directives and `Validators` class use the same function under the hood. We can provide multiple validators for an element. What Angular does is stack up the validators in an array and call them one by one.
 
 ### Validator Directives
 
