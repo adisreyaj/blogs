@@ -3,12 +3,9 @@
 Validators in angular are just simple functions that check our form values and return an error if some things are not the way its meant to be. Angular ships with a bunch of Validators out of the box. These can be used directly without the need for any configuration.
 
 ## Using validators in angular forms
-Validators can be set up in different ways to restrict/validate user inputs in form elements. Angular provides a lot of validators out of the box, which can be used without 
-any configuration.
+Validators can be set up in different ways to validate user inputs in form elements. Angular provides a lot of validators that are commonly needed for any form.
 
-But these inbuilt validators cannot properly validate the custom form controls that we've built and hence we have to create custom validation functions to do the same.
-
----
+If we special validation requirements or if we are dealing with custom components, the default validators might not just cut it. We can always create custom validators for these cases.
 
 ## In-built validators of angular
 Angular ships with different validators out of the box, both for use with Template forms as well as Reactive forms. 
