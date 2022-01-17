@@ -5,7 +5,7 @@ Auth0 actions are so powerful that they can be used to do a lot of cool things. 
 I recently worked on a small project which is a small e-commerce application built using Angular and NestJs. Auth0 is used for authenticating the users. I had a very interesting thought of adding notifications when a new user signs up. The easiest way for me was to use Auth0 Actions.
 
 ## Auth0 Actions
-Auth0 actions are one of the coolest features of Auth0. I love it and have used it for multiple scenarios. Actions are custom Node.js functions that get executed during certain points like User Login, Registration, etc.
+Actions are one of the coolest features of Auth0. I love it and have used it for multiple scenarios. Actions are custom Node.js functions that get executed during certain points like User Login, Registration, etc.
 
 Here's a definition from the docs:
 
@@ -24,7 +24,7 @@ Here are more details of when exactly these actions are triggered:
 https://auth0.com/docs/customize/actions/triggers
 
 ## Implementing the Action
-For our use case, we need the notification to be sent when a new user signs up. So we have could use the **Post User Registration** trigger for our action.
+For our use case, we need the notification to be sent when a new user signs up. So we could use the **Post User Registration** trigger for our action.
 
 ### 1. Create a custom action
 The first step is to create a new custom Action. We do that by navigating to `Actions > Custom` and then clicking on the **Build Custom** button.
@@ -46,7 +46,7 @@ Once the action is created, you can see the list of the Actions under **Custom**
 There are a few things that we need to do before we can start writing the actual logic.
 
 #### Creating a Telegram Bot
-Telegram is a really powerful messaging platform that can do a lot of stuff. One of the best things about it is that we can create bots and also send messages using the Telegram API. 
+Telegram is a really powerful messaging platform that can do a lot of stuff. One of the best things about it is that we can create bots and also send messages using the  [Telegram Bot API](https://core.telegram.org/bots/api) . 
 
 Put a message to  [BotFather](https://t.me/botfather) on Telegram
 ```
@@ -56,7 +56,9 @@ Put a message to  [BotFather](https://t.me/botfather) on Telegram
 It will prompt to you give a name. Give a name and then you'll be given the **Bot Token**.
 ![telegram bot.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1642327890346/DXu0QEak1.png)
 
-Now that we have the bot token, we can make API calls using the Telegram API.
+Now that we have the bot token, we can make API calls using the Telegram Bot API.
+
+Ref: https://core.telegram.org/bots#3-how-do-i-create-a-bot
 
 Before we can send a message to the Bot, we need to get the **Channel Id**. For that send a message to the bot and then just paste the following URL in the browser (replace the <bot-token> with yours):
 ```
@@ -98,7 +100,7 @@ The `id` is the `channel_id` that we are going to use for sending messages.
 Now that we have the things needed, let's start writing the logic. So here are the things that need to be set up in the actions.
 
 #### Installing Dependencies
-Actions allow us to install packages that we can use inside the function, in our case we need to make API requests to the Telegram API to send messages. For that, we can install a library called `node-fetch`. 
+Actions allow us to install packages that we can use inside the function, in our case we need to make API requests to the Telegram Bot API to send messages. For that, we can install a library called `node-fetch`. 
 
 To do so, go to your newly created action and click on the **Modules** section.
 
@@ -146,6 +148,8 @@ exports.onExecutePostUserRegistration = async (event) => {
 };
 ```
 Now the action can be deployed.
+
+Ref: https://core.telegram.org/bots/api#sendmessage
 
 ### 4. Using the Action
 Once the action is deployed, we can use it in a flow. To do so, navigate to the `Actions > Flows` Page and select **Post User Registration** flow from the cards.
