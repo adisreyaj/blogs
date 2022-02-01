@@ -11,7 +11,9 @@ If you had use cases where you need to treat a particular request differently or
 I came to know about it only recently and actually started using it in one of my recent projects - [Libshare](https://github.com/adisreyaj/libshare/blob/2e2a41ab46e942fbe5b47e7c60fdf7dea870e3a8/src/app/core/interceptors/auth.interceptor.ts#L12). 
 
 ## How to use HttpContext in Angular?
-Let's take a practical use case for understanding how to use HttpContext. I was working on a small application that can be used to curate and share the libraries. Most of the APIs are authenticated, meaning we need to add `Authorization` header with all the API requests.
+Let's take a practical use case for understanding how to use HttpContext.
+
+ I was working on a small application that can be used to curate and share the libraries. Most of the APIs are authenticated, meaning we need to add `Authorization` header with all the API requests.
 
 For pages like Login and Signup, we don't need to pass the token in the headers. Let's see how we can skip certain APIs and only add Bearer tokens to the other API requests.
 
