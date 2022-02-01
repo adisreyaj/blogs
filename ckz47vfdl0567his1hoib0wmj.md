@@ -4,7 +4,7 @@ Have you heard about HttpContext in Angular? If not, there is such a thing. Http
 
 ## HttpContext in Angular
 
-HttpContext is used to store additional metadata that can be accessed from HTTP interceptors. Angular Before this, there was no way to configure interceptors on a per request basis. This feature was introduced by [Angular v12](https://github.com/angular/angular/pull/25751).
+HttpContext is used to store additional metadata that can be accessed from HTTP Interceptors. Before this, there was no proper way to configure interceptors on a per request basis. This feature was introduced by [Angular v12](https://github.com/angular/angular/pull/25751).
 
 If you had use cases where you need to treat a particular request differently or override some logic in an HTTP Interceptor, this is what you need to use. 
 
