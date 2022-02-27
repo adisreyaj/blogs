@@ -614,7 +614,11 @@ export class PrismaExceptionFilter implements GqlExceptionFilter {
 
 ## Code and Demo 💫
 
-Demo: https://flare.adi.so
+**Link**: https://flare.adi.so
+
+For those who just want to test drive and not sign in with their accounts, Try this link:
+
+**Demo**: https://flare-api.adi.so/api/demo
 
 Attaching the GitHub repo for the project.
 
