@@ -620,6 +620,9 @@ For those who just want to test drive and not sign in with their accounts, Try t
 
 **Demo**: https://flare-api.adi.so/api/demo
 
+**Note**: Please don't spam 🙏🏻. Respect others 😊
+Its' not a production app right now, still in a very early stage and there will be unforeseen bugs. Please don't try to break it 🥺
+
 Attaching the GitHub repo for the project.
 
 %[https://github.com/adisreyaj/flare]
