@@ -115,7 +115,7 @@ sudo ln -s /etc/nginx/sites-available/plausible /etc/nginx/sites-enabled/plausib
 ```
 Now edit the file and update the `server_name`
 ```sh
-sudo nano /etc/nginx/sites-available
+sudo nano /etc/nginx/sites-available/plausible
 ```
 ```
 server {
