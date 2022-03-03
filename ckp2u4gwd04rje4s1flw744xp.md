@@ -86,7 +86,7 @@ cd hosting
 ```sh
 openssl rand -base64 64
 ```
-3. Update the `.env` file with relevant info. Use any editor on the system to edit the file. Secret key will be the key that we generated in the above step.
+3. Update the `plausible-conf.env` file with relevant info. Use any editor on the system to edit the file. Secret key will be the key that we generated in the above step.
 ```
 ADMIN_USER_EMAIL=adi@sreyaj.dev
 ADMIN_USER_NAME=adithya
