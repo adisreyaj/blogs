@@ -184,12 +184,13 @@ What a developer or a content creator needs is appreciation. Show them you appre
 
 #### Spotify Integration
 
-A great way to share your taste in music with others. Hopefully, find other folks with the same likes in Music. Just another way to make connections on Flare.
+A great way to share your taste in music with others. Hopefully, find other folks with the same likes in music. Just another way to make connections on Flare.
 
 ![Spotify](https://cdn.hashnode.com/res/hashnode/image/upload/v1645889958426/BJCNTn05t.png)
 
 Users will be able to integrate Spotify to show the last played songs on their profile.
 
+**Note**: Due to the limitation of Spotify API in development mode, new users are not able to integrate their spotify. Quote extension is required!
 ---
 
 ### Discover
