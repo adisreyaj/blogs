@@ -177,15 +177,13 @@ Check out some of my projects:
 - [Md Resume](https://github.com/adisreyaj/md-resume)
 - [more...](https://github.com/adisreyaj)
 
-## Fast Forward
-
-**Timeline**:  Dec 2021
+## Fast forward to 2022
 
 I have started my Angular journey from v7 and now we are at v13. It's been a really good journey so far. The amount of learnings that I accumulated is so much and I'm still learning. That's a really interesting thing about the software domain, you need to be up to date with what's happening. And that is something that I really like about the whole software development field.
 
 I've written multiple blogs around Angular, gave a couple of talks, and also worked on a whole bunch of side projects.
 
-Fast forward to 2022, I now work as a Software Engineer at Traceable. I work with a really good team of experienced engineers whom I can learn from. I really got to know how culture makes a really big difference. It's not always about the money. Finding a job where you have peace of mind is really important.
+Fast forward to 2022, I now work as a Software Engineer at [Traceable](https://www.traceable.ai?utm_source=sreyaj.dev). I work with a really good team of experienced engineers whom I can learn from. I really got to know how culture makes a really big difference. It's not always about the money. Finding a job where you have peace of mind is really important.
 
 ## Tech Stack
 
