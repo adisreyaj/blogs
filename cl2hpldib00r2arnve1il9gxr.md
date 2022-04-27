@@ -86,7 +86,7 @@ One fine afternoon, I got a call from an HR who asked me If I could go in for an
 
 The company asked me to go to their office for 2 days where they would evaluate me and then offer a job. I was given the task of redoing the company website using Angular. That is the first time I came to know about Angular and what Single Page Applications are.
 
-I was able to complete the task given by the company before the given time and was offered a job with almost half the salary of what I was getting in my tech support role. I decided to just take the job eventually. The pay was just around 12,000 INR or ~150 USD per month.
+I was able to complete the task given by the company before the given time and was offered a job with less salary than what I was getting in my tech support role. I decided to just take the job eventually. The pay was just around 12,000 INR or ~150 USD per month.
 
 I undervalued myself because my confidence level went down because of all that happened after college and I was jobless for more than a year.
 
