@@ -31,7 +31,7 @@ Things went wrong just before a week of my Master's classes started. A bunch of 
 
 But since I had grace marks as part of the entrepreneurship program. But luckily, my Master's admission got canceled due to the back-paper even though I cleared it thanks to the grace marks.
 
-I really thank god for that. And I think one of the best things happened to me because I really love what I do now.
+It was a relief for me to know that I won't be doing something I didn't like. And I think one of the best things happened to me because I really love what I do now.
 
 ## Getting into tech support
 
@@ -46,6 +46,8 @@ I struggled for nearly a year to get a job in the software domain. It was very h
 
 I came to Bangalore and started looking for a software developer role. I also wanted to do something till I could find a job. That is when one day, one of my friends was going for an interview for a tech support role. I just tagged along. I who went with him just for giving him company ended up giving an interview and getting the job as well.
 
+The job wasn't exciting and I knew that its not for me. But I had to work so that I can pay my bills without having to trouble my parents.
+
 ### Blogging about computers and smartphones
 
 The one thing that I did during that time is writing blogs, mainly about computer tips and tricks.
@@ -57,9 +59,11 @@ I wrote a lot of detailed articles about things related to computers that I enco
 
 I used WordPress for the blogs and also learned a little bit of PhP, just enough to be able to tweak themes and create small applications at that time. 
 
-I could really use some money to pay for rent and food. I ended up working there for almost 6 months. I used to work on my blog and also learn HTML, and CSS to make the blog look good. WordPress had limitations in what can be done. We are limited by the design of the theme that we use. I am really picky about the design of the blog and that's what pushed me to learn HTML, CSS, and JavaScript.
+I could really use some money to pay for rent and food. I ended up working there for almost 6 months. I used to work on my blog and also learn HTML, and CSS to make the blog look good. WordPress had limitations in what can be done. 
 
-While working in the Tech support role, I spent a lot of time doing UI changes to my blog to make it look good. I spent more time learning how HTML, CSS, and JavaScript, all to make my blog look better.
+We are limited by the design of the theme that we use. I am really picky about the design of the blog and that's what pushed me to learn HTML, CSS, and JavaScript.
+
+While working in the Tech support role, I spent a lot of time doing UI changes to my blog. I spent more time learning how HTML, CSS, and JavaScript, all to make my blog look better.
 
 I also did some logo designing and website development for my friends and family at that time. I really enjoyed creating designs. 
 
@@ -78,7 +82,7 @@ While being in the tech support role, I was pulled into the job completely and I
 
 I was pretty confident that once I get a chance, I can prove myself and go from there. But getting that initial break was a real struggle for me.
 
-One fine afternoon, I got a call from HR who asked me If I could go in for an interview. I was having an off that day and so I decided to go. Went there and gave the interview. I was able to show my blogs and a few smaller projects that I built during that time.
+One fine afternoon, I got a call from an HR who asked me If I could go in for an interview. I was having an off that day and so I decided to go. Went there and gave the interview. I was able to show my blogs and a few smaller projects that I built during that time.
 
 The company asked me to go to their office for 2 days where they would evaluate me and then offer a job. I was given the task of redoing the company website using Angular. That is the first time I came to know about Angular and what Single Page Applications are.
 
@@ -131,7 +135,7 @@ Another community that I wanted to give a shout-out to is [Angular Nation](https
 
 I met a lot of cool folks there and also had a chance to interact with [Bonnie Brennan](https://twitter.com/bonnster75). She gave me a lot of support and motivation. I went on to give multiple talks on different channels in Angular Nation. There are a lot of people that I interacted with in Angular Nation like Sander, Stephen, Rob, Ankita, Valentine, Oyemade, Debmallya, etc.
 
-I am also thankful to all of my supporters on [Buymeacoffee](https://www.buymeacoffee.com/adisreyaj) for their support. Even if the contributions are not significant, it felt really good to get validation.
+I am also thankful to all of my supporters on [Buymeacoffee](https://www.buymeacoffee.com/adisreyaj) for their support.
 
 ### Blogs on web development
 
@@ -153,7 +157,7 @@ I mostly consider my blogs as documentation that I can go back and refer to just
 
 I also worked on a bunch of side projects, most of them built using Angular and a few with React. When it comes to the back-end frameworks, I started out with ExpressJS and then shifted to NestJs for its similarities with Angular.
 
-Being able to write on the back-end and front-end means, I don't want to rely on others If I had an idea in mind. I can execute it on my own. 
+Being able to write the back-end and front-end means, I don't want to rely on others If I had an idea in mind. I can execute it on my own. 
 
 I've participated in multiple hackathons during Covid times and won two of them.
 - [Auth0 x Hashnode Hackthon](https://townhall.hashnode.com/auth0-hashnode-hackathon-winners)
@@ -180,8 +184,6 @@ Check out some of my projects:
 ## Fast forward to 2022
 
 I have started my Angular journey from v7 and now we are at v13. It's been a really good journey so far. The amount of learnings that I accumulated is so much and I'm still learning. That's a really interesting thing about the software domain, you need to be up to date with what's happening. And that is something that I really like about the whole software development field.
-
-I've written multiple blogs around Angular, gave a couple of talks, and also worked on a whole bunch of side projects.
 
 Fast forward to 2022, I now work as a Software Engineer at [Traceable](https://www.traceable.ai?utm_source=sreyaj.dev). I work with a really good team of experienced engineers whom I can learn from. I really got to know how culture makes a really big difference. It's not always about the money. Finding a job where you have peace of mind is really important.
 
@@ -215,7 +217,7 @@ I am leaning towards learning Fastify these days for its simplicity.
 
 The majority of my back-ends are all Restful APIs, but recently started using GraphQL and really love how good it is. I'll probably stick with GQL for my future projects.
 
-When it comes to databases, I prefer MongoDB or Postgres, or MySQL. Since I am not that well versed with SQL, I always use an ORM like Prisma which has served me well so far. For Mongo, the obvious choice is mongoose for me. It just works.
+When it comes to databases, I prefer MongoDB, Postgres, or MySQL. Since I am not that well versed with SQL, I always use an ORM like Prisma which has served me well so far. For Mongo, the obvious choice is mongoose for me. It just works.
 
 For deployments, I use a simple Ubuntu based instance from OVH and run a container in it, connect to domains using Nginx and Let's Encrypt for SSL and that's pretty much it.
 
