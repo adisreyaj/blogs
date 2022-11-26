@@ -192,7 +192,7 @@ The good thing about the selection model is that it's not coupled to any compone
 | Title        | Link                            |
 |--------------|---------------------------------|
 | Source Code      | https://github.com/adisreyaj/sreyaj/blob/main/libs/examples/cdk-selection/src/lib/cdk-selection.component.ts             | 
-| Demo      | https://https://sreyaj.vercel.app/examples/cdk-selection     |
+| Demo      | https://sreyaj.vercel.app/examples/cdk-selection     |
 | Angular CDK SelectionModel Docs      | https://material.angular.io/cdk/collections/overview#selectionmodel        |
 | Angular CDK SelectionModel Code      | https://github.com/angular/components/blob/main/src/cdk/collections/selection-model.ts        |
 
