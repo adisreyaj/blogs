@@ -11,7 +11,7 @@ Building out **Selection** feature for tables/list can be challenging at times, 
 ## Understanding the API ℹ️
 The Selection Model class comes with a lot of handy methods that make it super easy to maintain the state of selections. Here's how we can use it:
 ```ts
-const selectionModel = new SelectionMode<string>();
+const selectionModel = new SelectionModel<string>();
 ```
 
 The class constructor takes in these arguments:
@@ -179,7 +179,7 @@ Here's what the event looks like:
 *  removed: T[];
 * }
 * */
-selectionMode.changed.subscribe((change: SelectionChange) => {
+selectionModel.changed.subscribe((change: SelectionChange) => {
    console.log(change); 
 })
 ```
