@@ -260,3 +260,15 @@ The table is far more capable as it even takes care of sorting, pagination, etc.
 | Source Code | [https://github.com/adisreyaj/sreyaj/tree/main/libs/examples/dynamic-card-list](https://github.com/adisreyaj/sreyaj/tree/main/libs/examples/dynamic-card-list) |
 | Demo | [https://examples.adi.so/examples/dynamic-card-list](https://examples.adi.so/examples/dynamic-card-list) |
 | Hypertrace Repo | [https://github.com/hypertrace/hypertrace-ui](https://github.com/hypertrace/hypertrace-ui) |
+
+## Connect with me 
+
+- [Twitter](https://twitter.com/AdiSreyaj)
+- [Github](https://github.com/adisreyaj)
+- [Linkedin](https://www.linkedin.com/in/adithyasreyaj/)
+- [Portfolio](https://adi.so)
+
+Have any thoughts or questions? shoot'em below in the comments.
+Stay Safe ❤️
+
+[![Buy me a pizza](https://cdn.hashnode.com/res/hashnode/image/upload/v1639498527478/IA3aJ9R0J.png)](https://www.buymeacoffee.com/adisreyaj)ments. Stay Safe ❤️
