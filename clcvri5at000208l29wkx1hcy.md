@@ -25,13 +25,11 @@ For table-like cards, if you want to render display different data in different 
 
 ## Concepts
 
-There are a couple of things to be aware of to make sense of how we implement things. We also make good use of Angular's strong Dependency Injection (DI) system. We'll see how we can provide custom components and dynamically create and attach them to the view. We use concepts like Dynamic Component Creation, Injectors, Injection Tokens, etc.
+There are a couple of concepts that we use to build this out. We also make good use of Angular's strong Dependency Injection (DI) system. We'll see how we can provide custom components and dynamically create and attach them to the view. We use concepts like Dynamic Component Creation, Injectors, Injection Tokens, etc.
 
 ### Renderers
 
 So if we consider the card like a table, then the columns are where we display the data. So each of these columns can display different types of information like text, images, buttons, etc. So we can have different renderers for each of these types. For example, we can have a text renderer that will render text, an image renderer that will render an image, etc.
-
-We introduce another decorator `ListColumnRenderer` that can be used to provide some metadata information about the renderer itself like the `type`. We'll see how the custom decorator helps us later.
 
 #### Core Renderers
 
@@ -46,7 +44,7 @@ We can identify some common use cases for renderers and create components that b
 
 #### Custom Renderers
 
-If there are use cases that are not covered by the core renderers, then we can create custom renderers. For example, we need to display a user's name with the profile picture. So we can create a custom renderer for this use case.
+If there are use cases that are not covered by the core renderers, then we can create custom renderers. For example, we need to display a user's name with the profile picture. So we can create a custom renderer for this use case. Look at the [NameWithAvatarColumnRendererComponent](https://github.com/adisreyaj/sreyaj/blob/main/libs/examples/dynamic-card-list/src/lib/components/custom-renderers/name-with-avatar/name-with-avatar-column-renderer.component.ts)
 
 ### Renderers Registry
 
@@ -110,7 +108,7 @@ export function ListColumnRenderer(
 }
 ```
 
-We want to have a `type` property for all renderers. The default type of a **Component** is `Type`. For us, we have extra metadata so we say our components are of the type `ListColumnRendererConstructor` which is an extended `Type` with some additional properties like `type` (more can be added later).
+The default type of a **Component** is `Type`. For us, we have extra metadata so we say our components are of the type `ListColumnRendererConstructor` which is an extended `Type` with some additional properties like `type` (more can be added later).
 
 ```ts
 export interface ListColumnRendererConstructor extends Type<unknown>,
@@ -127,9 +125,9 @@ export interface ListColumnRendererMetadata {
 
 There is a main component `sreyaj-exp-card-list` which is the component the consumers will use. The component takes in two inputs:
 
-1. `columnConfig` - An array of column config that is used to render each column
+1. `columnConfig` - An array of column config that is used to render each column.
     
-2. `dataSource` - The data source which drives the component
+2. `dataSource` - The data source which drives the component.
     
 
 The column config is what drives the view part of the component. Here is how you define it:
@@ -161,7 +159,7 @@ Inside the main component, it just loops through the columns:
 </div>
 ```
 
-We pass the column information and the data for the column from the data source to a child component `sreyaj-exp-card-list-column-renderer` which takes care of dynamically creating and attacking the corresponding renderer to the view.
+We pass the column information and the data for the column from the data source to a child component `sreyaj-exp-card-list-column-renderer` which takes care of dynamically creating and attaching the corresponding renderer to the view.
 
 ### Attaching Renderers to the View
 
@@ -191,11 +189,11 @@ if (renderer) {
 
 If I were to breakdown what is happening inside the component:
 
-1. Get the renderer corresponding to the `type` passed in the `columnConfig`
+1. Get the renderer corresponding to the `type` passed in the `columnConfig`.
     
 2. Use `ViewContainerRef` to dynamically create the component using the `createComponent` method.
     
-3. To the `createComponent` method, we pass the renderer class along with an `injector` which holds the data.
+3. To the `createComponent` method, we pass the renderer class along with an `injector` that holds the data.
     
 4. `COLUMN_RENDERER_DATA` injection token is provided the data for that particular column.
     
@@ -221,7 +219,7 @@ Let's look at `TextColumnRendererComponent` which is part of the Core Renderers.
 export class TextColumnRendererComponent extends ListColumnRendererBase {}
 ```
 
-The `data` property contains the data passed from the injector, wondering how we get it. For that, let's look at `ListColumnRendererBase` :
+The `data` property contains the data passed from the injector. Wondering how we get it? For that, let's look at `ListColumnRendererBase` :
 
 ```typescript
 export abstract class ListColumnRendererBase<ColumnDataType = unknown> {
@@ -253,9 +251,9 @@ export class TextColumnRendererComponent {
 
 The idea of this is taken from the OSS project called [Hypertrace](https://www.hypertrace.org?utm_source=sreyaj.dev) which is an Open source distributed tracing platform from [Traceable](https://traceable.ai?utm_source=sreyaj.dev) (The company I'm currently working in).
 
-The project has a table implementation which does exactly this. I've just used the same concept to create a card list instead of a table (also use standalone components).
+The project has a table implementation that does exactly this. I've just used the same concept to create a card list instead of a table (also use standalone components).
 
-The table is far more capable as it even takes care of sorting, pagination etc. You can look at the codebase to get an idea of how the [table](https://github.com/hypertrace/hypertrace-ui/tree/main/projects/components/src/table) is implemented.
+The table is far more capable as it even takes care of sorting, pagination, etc. You can look at the codebase to get an idea of how the [table](https://github.com/hypertrace/hypertrace-ui/tree/main/projects/components/src/table) is implemented.
 
 | Title | Link |
 | --- | --- |
