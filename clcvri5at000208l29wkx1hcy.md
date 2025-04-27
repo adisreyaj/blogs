@@ -1,4 +1,12 @@
-# Architecting A Highly Dynamic Card List In Angular
+---
+title: "Architecting A Highly Dynamic Card List In Angular"
+datePublished: Sat Jan 14 2023 09:44:41 GMT+0000 (Coordinated Universal Time)
+cuid: clcvri5at000208l29wkx1hcy
+slug: architecting-a-highly-dynamic-card-list-in-angular
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673688968762/4a1eb1e8-73a9-47cf-8767-92235368666a.png
+tags: javascript, web-development, angular, typescript, ui
+
+---
 
 Let's look at one way to architect Angular's highly customizable and dynamic card list component. The goal is to make it easier to render different kinds of card lists using one single component.
 
