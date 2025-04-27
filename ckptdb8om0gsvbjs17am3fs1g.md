@@ -1,4 +1,12 @@
-## A simple but customizable accordion component in Angular
+---
+title: "A simple but customizable accordion component in Angular"
+datePublished: Sat Jun 12 2021 06:18:38 GMT+0000 (Coordinated Universal Time)
+cuid: ckptdb8om0gsvbjs17am3fs1g
+slug: customizable-accordion-component-angular
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1623477714166/nynrOHXij.jpeg
+tags: javascript, angularjs, web-development, angular-2, typescript
+
+---
 
 How to create a super simple accordion component in Angular. Using the power of content projection in Angular, we are going to build an accordion/expansion panel that can be customized in multiple ways.
 
