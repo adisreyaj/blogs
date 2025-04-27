@@ -1,4 +1,12 @@
-## Theming your Angular apps using CSS Variables - Easy Solution!
+---
+title: "Theming your Angular apps using CSS Variables - Easy Solution!"
+datePublished: Fri Apr 16 2021 16:45:12 GMT+0000 (Coordinated Universal Time)
+cuid: cknkjlg3301l5cqs1auhd2jgp
+slug: theming-angular-apps-using-css-variables
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618591048730/s_rjgQDyR.png
+tags: javascript, angularjs, angular-2, typescript
+
+---
 
 Have you thought about how you can provide your users with different color schemes for your application? or Do you want your application to have a `Dark` theme?
 
