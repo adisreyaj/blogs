@@ -1,4 +1,12 @@
-## Launching Flare ✨ - The twitter for developers we all have been wanting!
+---
+title: "Launching Flare ✨ - The twitter for developers we all have been wanting!"
+datePublished: Sat Feb 26 2022 18:42:48 GMT+0000 (Coordinated Universal Time)
+cuid: cl046xv3u0654udnv4615evbp
+slug: launching-flare-the-twitter-for-developers-we-all-have-been-wanting
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1645807562084/mw6URTMvu.png
+tags: javascript, angular, typescript, netlify, netlifyhackathon
+
+---
 
 Flare is my take on a social network for developers. It's built entirely around the needs and interests of software developers. Flare is my entry for the Netlify x Hashnode Hackathon 🔥
 
