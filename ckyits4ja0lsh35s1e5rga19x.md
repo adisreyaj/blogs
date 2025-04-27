@@ -1,4 +1,12 @@
-## Get Signup Notifications In Telegram Using Auth0 Actions.
+---
+title: "Get Signup Notifications In Telegram Using Auth0 Actions."
+datePublished: Mon Jan 17 2022 15:11:33 GMT+0000 (Coordinated Universal Time)
+cuid: ckyits4ja0lsh35s1e5rga19x
+slug: signup-notifications-telegram-using-auth0-actions
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1642333900296/NuR988Yla.png
+tags: tutorial, authentication, web-development, auth0
+
+---
 
 Auth0 actions are so powerful that they can be used to do a lot of cool things. Here's how you can send notifications to Telegram whenever a new user signs up. 
 
