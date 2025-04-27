@@ -1,4 +1,12 @@
-## How to implement complex forms in Angular using FormArray
+---
+title: "How to implement complex forms in Angular using FormArray"
+datePublished: Sat Dec 12 2020 15:57:44 GMT+0000 (Coordinated Universal Time)
+cuid: ckilvuxs3004kuys1hp5v9662
+slug: implement-complex-forms-in-angular-using-formarray
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607788751817/DG5OZlw7P.png
+tags: web-development, angular, angular-2
+
+---
 
 Angular is a great framework, there is no doubt in that. There is pretty much everything you would need when building a web application. One of the main things in applications like CRM, SAAS applications are user inputs.
 
