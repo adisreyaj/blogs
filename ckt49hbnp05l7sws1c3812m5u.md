@@ -1,4 +1,12 @@
-## How to backup Postgres data to S3 Bucket using Minio
+---
+title: "How to backup Postgres data to S3 Bucket using Minio"
+datePublished: Fri Sep 03 2021 11:15:59 GMT+0000 (Coordinated Universal Time)
+cuid: ckt49hbnp05l7sws1c3812m5u
+slug: how-to-backup-postgres-data-to-s3-bucket-using-minio
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1630667560527/psZsgkHli.jpeg
+tags: cloud, postgresql, deployment, devops, amazon-s3
+
+---
 
 Managing a database on your own can be problematic. As someone who is not that into DevOps, setting up a database and managing it is a difficult task. I have currently hosted two of my side projects -  [Cartella](https://cartella.sreyaj.dev)  and  [Compito](https://blog.sreyaj.dev/compito-project-management-app-angular-nestjs-auth0)  in a barebones **Ubuntu** VPS. 
 
