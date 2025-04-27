@@ -1,4 +1,14 @@
-## Highlight text in paragraphs with a simple directive in Angular
+---
+title: "Highlight text in paragraphs with a simple directive in Angular"
+seoTitle: "Highlight text in paragraphs with a simple directive in Angular"
+seoDescription: "How to highlight text in a paragraph with the help of directives in Angular. Especially helpful in highlighting text matching the search term."
+datePublished: Tue Jun 01 2021 04:23:53 GMT+0000 (Coordinated Universal Time)
+cuid: ckpdjdak40afub1s175o9abf5
+slug: highlight-text-in-angular-using-directives
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1622365240991/9ekX7bfFn.jpeg
+tags: javascript, angularjs, web-development, angular-2, typescript
+
+---
 
 How to highlight text in a paragraph with the help of directives in Angular. Especially helpful in highlighting text matching the search term. You could have come across this in your browser or IDE when you search for something, the matching items will be highlighted to point you to the exact place of occurrence.
 
