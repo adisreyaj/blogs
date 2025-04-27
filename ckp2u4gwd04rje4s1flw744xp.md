@@ -1,4 +1,12 @@
-## How to self-host Plausible Analytics on Ubuntu with SSL for Free!
+---
+title: "How to self-host Plausible Analytics on Ubuntu with SSL for Free!"
+datePublished: Mon May 24 2021 16:39:29 GMT+0000 (Coordinated Universal Time)
+cuid: ckp2u4gwd04rje4s1flw744xp
+slug: self-host-plausible-ubuntu-with-ssl-for-free
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1621875728909/7iIDuZ0HP.jpeg
+tags: tutorial, analytics, ubuntu, devops
+
+---
 
 Self-host the open-source alternative to Google Analytics, Plausible using Oracle Cloud Free VM instance. Set up Plausible Analytics on an Ubuntu machine with these simple steps. Follow them one by one and then you can get yourself a simple and easy-to-use analytics tool.
 
