@@ -1,4 +1,12 @@
-## Presenting Show Off ✨ - Showcase your setup!
+---
+title: "Presenting Show Off ✨ - Showcase your setup!"
+datePublished: Fri Jul 29 2022 16:30:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl66okfi901bqy6nv7vdw2sph
+slug: show-off-showcase-your-setup-planetscale-hashnode-hackathon
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1658653559455/298i8LtCe.jpg
+tags: javascript, angular, nestjs, planetscale, planetscalehackathon
+
+---
 
 Show Off is a great place to showcase all the gadgets and software you use and share them with your friends or fans. Add affiliate links to the items and make it easy to earn when the user clicks through your collection.
 
