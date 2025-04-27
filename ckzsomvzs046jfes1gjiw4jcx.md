@@ -1,4 +1,12 @@
-## ✨Libshare - Curate & Share Your favorite JavaScript Libraries!
+---
+title: "✨Libshare - Curate & Share Your favorite JavaScript Libraries!"
+datePublished: Fri Feb 18 2022 17:24:54 GMT+0000 (Coordinated Universal Time)
+cuid: ckzsomvzs046jfes1gjiw4jcx
+slug: curate-and-share-javascript-libraries-using-libshare
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1645204711895/29uZmdo3f.png
+tags: tutorial, web-development, angular, apis, webdev
+
+---
 
 Libshare helps you curate and share your favorite NPM libraries with the community. Showcase all the awesome libraries that you used in your side project and give them visibility. Made for the ♥ of open-source.
 
