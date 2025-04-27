@@ -1,4 +1,12 @@
-## Compito - A project management app built using Angular, NestJs & Auth0
+---
+title: "Compito - A project management app built using Angular, NestJs & Auth0"
+datePublished: Sat Aug 28 2021 18:23:25 GMT+0000 (Coordinated Universal Time)
+cuid: cksw43wyj0i3mn1s19uwtd2e7
+slug: compito-project-management-app-angular-nestjs-auth0
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1629827787604/DEVExf_9e.jpeg
+tags: angular, typescript, auth0, nest, auth0hackathon
+
+---
 
 Compito is a simple and easy-to-use project management application built using Angular and NestJs. Authentication/Authorization is all handled by Auth0.
 
