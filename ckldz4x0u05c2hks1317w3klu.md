@@ -1,4 +1,12 @@
-## Implementing Feature Flags in Angular is easier than you thought it would be!
+---
+title: "Implementing Feature Flags in Angular is easier than you thought it would be!"
+datePublished: Sat Feb 20 2021 17:06:27 GMT+0000 (Coordinated Universal Time)
+cuid: ckldz4x0u05c2hks1317w3klu
+slug: implementing-feature-flags-in-angular
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1613840661085/hCVzmEwsw.png
+tags: javascript, angularjs, angular, typescript
+
+---
 
 Feature flags are basically a configuration for your application where we specify which features are enabled/disabled. We would normally just comment out that part of the code which we don't want to be made available and then later come back and uncomment it to enable that feature.
 
