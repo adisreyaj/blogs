@@ -1,4 +1,12 @@
-## How To Implement Heatmap In Tables Using Directives In Angular
+---
+title: "How To Implement Heatmap In Tables Using Directives In Angular"
+datePublished: Tue Oct 12 2021 13:51:09 GMT+0000 (Coordinated Universal Time)
+cuid: ckuo57cau0yopebs180h3fjgp
+slug: how-to-implement-heatmap-in-tables-using-directives-in-angular
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1633846302091/vQ_xTbmhu.jpeg
+tags: javascript, web-development, angular, typescript
+
+---
 
 Let's see how easy it is to add heatmaps to tables in Angular using Directives. We'll go for a really simple and elegant solution to have separate heatmap colors to different columns in the table.
 
