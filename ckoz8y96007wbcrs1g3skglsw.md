@@ -1,4 +1,13 @@
-## Creating a super simple Badge component in Angular using directives.
+---
+title: "Creating a super simple Badge component in Angular using directives."
+seoDescription: "Here is how to create a super simple Badge component using Directive in Angular. How to create a Badge component similar to Angular Material badge."
+datePublished: Sat May 22 2021 04:23:29 GMT+0000 (Coordinated Universal Time)
+cuid: ckoz8y96007wbcrs1g3skglsw
+slug: create-badge-component-angular-using-directives
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1621657146122/IxeFbLZjm.png
+tags: javascript, angularjs, web-development, angular-2, typescript
+
+---
 
 So I'm back with another small post to show how you can leverage directives to do magical things in your Angular application. Directives are really powerful. Once you get to know about the, you can start leveraging it to move your imperative logic into directives.
 
