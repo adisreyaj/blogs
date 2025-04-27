@@ -1,4 +1,12 @@
-## How to enable Tailwind JIT compilation mode in your Angular project.
+---
+title: "How to enable Tailwind JIT compilation mode in your Angular project."
+datePublished: Thu Apr 08 2021 16:52:07 GMT+0000 (Coordinated Universal Time)
+cuid: ckn94bj2a0bnc8us1dfg9g5ci
+slug: enable-tailwind-jit-mode-in-angular
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1617900547950/i936aiF6x.png
+tags: javascript, angularjs, web-development, angular-2, tailwind-css
+
+---
 
 Tailwind, for those living under a rock, is all the buzz among web devs. It is a utility first CSS framework wherein we add a bunch of classes to HTML elements and the rest is taken care of by Tailwind. 
 
