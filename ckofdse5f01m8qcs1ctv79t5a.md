@@ -1,4 +1,13 @@
-## Beautifully encapsulate table related logic using a custom data source + sorting using directives
+---
+title: "Beautifully encapsulate table related logic using a custom data source + sorting using directives"
+seoDescription: "How to implement a custom data source for a table in Angular. Add sorting functionality using directives."
+datePublished: Sat May 08 2021 06:43:30 GMT+0000 (Coordinated Universal Time)
+cuid: ckofdse5f01m8qcs1ctv79t5a
+slug: implement-custom-data-source-sorting-angular
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1620456088238/wOObXnUnG.png
+tags: tutorial, javascript, angularjs, web-development
+
+---
 
 Tables are a fundamental part of the web. It is used in most of the applications out there to present data in a readable and digestible way. Tables can come out as very simple components, but they can be a real pain to work with if things are not organized properly. 
 
