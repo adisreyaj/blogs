@@ -1,4 +1,12 @@
-## Creating buttons with custom loading animations in Angular - Simple and Easy!
+---
+title: "Creating buttons with custom loading animations in Angular - Simple and Easy!"
+datePublished: Wed Apr 07 2021 16:10:32 GMT+0000 (Coordinated Universal Time)
+cuid: ckn7ne73x03i48us1hwtsah8w
+slug: creating-buttons-with-custom-loading-animations-in-angular-simple-and-easy
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1617811188540/Tb55UCymW.png
+tags: javascript, angularjs, angular-2, typescript, css-animation
+
+---
 
 I have previously written about  [How to create consistent buttons for your Angular](https://blog.sreyaj.dev/consistent-buttons-using-directives-in-angular) projects using the power of Directives. We saw why it is necessary to maintain consistency in our applications and how it impacts the UX of the whole app.
 
