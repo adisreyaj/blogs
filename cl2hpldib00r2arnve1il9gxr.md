@@ -1,4 +1,12 @@
-## From Working In A Tech Support Role To Becoming A Full-stack Developer
+---
+title: "From Working In A Tech Support Role To Becoming A Full-stack Developer"
+datePublished: Wed Apr 27 2022 15:05:23 GMT+0000 (Coordinated Universal Time)
+cuid: cl2hpldib00r2arnve1il9gxr
+slug: my-journey-into-tech
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/szrJ3wjzOMg/upload/v1650221442726/DNLwDqzCZ.jpeg
+tags: javascript, angular, career, learning-journey
+
+---
 
 Starting as a tech support associate to becoming a full-stack web developer, this is my journey into tech. I currently work with technologies/frameworks like Angular, NodeJs & TypeScript.
 
