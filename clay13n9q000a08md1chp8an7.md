@@ -1,4 +1,12 @@
-# Super Simple Select Implementation Using Angular CDK Selection Model
+---
+title: "Super Simple Select Implementation Using Angular CDK Selection Model"
+datePublished: Sat Nov 26 2022 14:29:29 GMT+0000 (Coordinated Universal Time)
+cuid: clay13n9q000a08md1chp8an7
+slug: select-implementation-using-angular-cdk-selection-model
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1669455772244/m4qoxkcuX.jpg
+tags: tutorial, javascript, angular, typescript
+
+---
 
 Building out **Selection** feature for tables/list can be challenging at times, because of a lot of corner case that needs to be handled. Here's how we can build one without writing much logic using the Angular CDK's **SelectionModel** utility.
 
