@@ -1,4 +1,12 @@
-## How I dynamically updated the Title and Meta Tags in my Angular application
+---
+title: "How I dynamically updated the Title and Meta Tags in my Angular application"
+datePublished: Fri Feb 19 2021 16:22:51 GMT+0000 (Coordinated Universal Time)
+cuid: cklci50dc035k4ws1evwadthx
+slug: dynamically-update-title-and-meta-tags-angular
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1613750177225/72YC5sS3m.png
+tags: javascript, angularjs, web-development, angular, typescript
+
+---
 
 Title and meta tags are really important for any web app or website. The title gives the user an idea about the page itself and also the title is what is shown on the tab bar of the browser. So providing meaningful titles is good UX.
 
