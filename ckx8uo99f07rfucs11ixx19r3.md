@@ -1,4 +1,12 @@
-## All About Validators in Angular + Creating Custom Sync & Async Validators
+---
+title: "All About Validators in Angular + Creating Custom Sync & Async Validators"
+datePublished: Thu Dec 16 2021 10:59:08 GMT+0000 (Coordinated Universal Time)
+cuid: ckx8uo99f07rfucs11ixx19r3
+slug: creating-custom-sync-and-async-validators-in-angular
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1639321426078/3LZv_tYL9.png
+tags: forms, javascript, angular, webdev, typescript
+
+---
 
 Validators in angular are just simple functions that check our form values and return an error if some things are not the way its meant to be. Angular ships with a bunch of Validators out of the box. These can be used directly without the need for any configuration.
 
