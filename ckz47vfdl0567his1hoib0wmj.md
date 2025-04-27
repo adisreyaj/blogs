@@ -1,4 +1,13 @@
-## What the heck is HttpContext in Angular?
+---
+title: "What the heck is HttpContext in Angular?"
+seoDescription: "HttpContext is used to store additional metadata that can be accessed from HTTP interceptors."
+datePublished: Tue Feb 01 2022 14:29:11 GMT+0000 (Coordinated Universal Time)
+cuid: ckz47vfdl0567his1hoib0wmj
+slug: what-is-httpcontext-in-angular
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1643656327960/MugIvYLPi.png
+tags: tutorial, angular, webdev, typescript
+
+---
 
 Have you heard about HttpContext in Angular? If not, there is such a thing. HttpContext is used to pass additional metadata to HTTP Interceptors in Angular. 
 
